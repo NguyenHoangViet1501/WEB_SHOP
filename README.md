@@ -9,4 +9,4 @@ Xây dựng website quản lý bán hàng điện tử giúp doanh nghiệp qu�
 - **C#**, mô hình **MVC**, **LINQ to SQL**
 - **Visual Paradigm** cho thiết kế UML & Use Case
 
-(./Báo-cáo-đồ-án-web-ncao.docx)
+(https://nuceedu-my.sharepoint.com/:w:/g/personal/0292767_st_huce_edu_vn/EX02IW9pn6pMtki2pa5d1DMBIrJ0cW3nw_dQlqZuuzykyg?e=G0hcxQ)
